@@ -1,4 +1,4 @@
- # Hi there, I'm Rehan Pathan 👋
+ # Hi there, I'm Rupali Suryawanshi👋
 
 🎓 I'm a final-year BCA student at COCSIT College, Latur, passionate about technology and software development. I am aspiring to become a Backend Developer, with a focus on Java development.
 
